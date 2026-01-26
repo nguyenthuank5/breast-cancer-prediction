@@ -1,12 +1,12 @@
-# 🧠 Breast Cancer Prediction using Machine Learning
+#  Breast Cancer Prediction using Machine Learning
 
-## 📌 Giới thiệu
+##  Giới thiệu
 Dự án này xây dựng các mô hình **Machine Learning** để **dự đoán ung thư vú** dựa trên các đặc trưng sinh học của khối u.  
 Bài toán được mô hình hóa dưới dạng **phân lớp nhị phân (Binary Classification)**, nhằm hỗ trợ phát hiện sớm ung thư và nâng cao hiệu quả chẩn đoán.
 
 ---
 
-## 🎯 Mục tiêu dự án
+##  Mục tiêu dự án
 - Xây dựng pipeline Machine Learning hoàn chỉnh
 - Tiền xử lý và phân tích dữ liệu y sinh
 - Huấn luyện và so sánh nhiều mô hình phân lớp
@@ -15,7 +15,7 @@ Bài toán được mô hình hóa dưới dạng **phân lớp nhị phân (Bin
 
 ---
 
-## 📊 Dataset
+##  Dataset
 - **Tên dataset**: Breast Cancer Wisconsin Dataset  
 - **Số lượng mẫu**: 569  
 - **Số lượng đặc trưng**: 30  
@@ -27,7 +27,7 @@ Dataset bao gồm các đặc trưng mô tả hình dạng, kích thước và k
 
 ---
 
-## ⚙️ Quy trình thực hiện
+##  Quy trình thực hiện
 1. **Khám phá dữ liệu (EDA)**
    - Kiểm tra cấu trúc dữ liệu
    - Phân phối nhãn
@@ -52,8 +52,8 @@ Dataset bao gồm các đặc trưng mô tả hình dạng, kích thước và k
 
 ---
 
-## 🧪 Công nghệ & Thư viện sử dụng
-- **Ngôn ngữ**: Python 🐍
+##  Công nghệ & Thư viện sử dụng
+- **Ngôn ngữ**: Python 
 - **Thư viện**:
   - `numpy`
   - `pandas`
@@ -63,14 +63,14 @@ Dataset bao gồm các đặc trưng mô tả hình dạng, kích thước và k
 
 ---
 
-## 📈 Kết quả
+##  Kết quả
 - Các mô hình đạt độ chính xác cao (> 90%)
 - SVM và Logistic Regression cho hiệu suất ổn định
 - Confusion Matrix cho thấy khả năng phân biệt tốt giữa hai lớp Benign và Malignant
 
 ---
 
-## 📂 Cấu trúc thư mục
+##  Cấu trúc thư mục
 ```bash
 ├── Breast Cancer Prediction using Machine Learning.ipynb
 ├── README.md
